@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41322A-C42B-4DAA-8898-F79B7293572D}|Bai2Lab1\\Bai2Lab1.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai2lab1\\mapslab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41322A-C42B-4DAA-8898-F79B7293572D}|Bai2Lab1\\Bai2Lab1.csproj|solutionrelative:bai2lab1\\mapslab1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB41322A-C42B-4DAA-8898-F79B7293572D}|Bai2Lab1\\Bai2Lab1.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai2lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB41322A-C42B-4DAA-8898-F79B7293572D}|Bai2Lab1\\Bai2Lab1.csproj|solutionrelative:bai2lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai3lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|solutionrelative:bai3lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai3lab3\\myclasspart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|solutionrelative:bai3lab3\\myclasspart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai3lab3\\myclasspart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03689A7-2C51-4D46-9864-E8A0DCC8AC39}|Bai3Lab3\\Bai3Lab3.csproj|solutionrelative:bai3lab3\\myclasspart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A4C9B1-4EEB-4FA6-B21A-4096C250BE66}|Bai1Lab1\\Bai1Lab1.csproj|c:\\users\\t\u0026t\\desktop\\lab1\\bai1lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A4C9B1-4EEB-4FA6-B21A-4096C250BE66}|Bai1Lab1\\Bai1Lab1.csproj|solutionrelative:bai1lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapsLab1.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai2Lab1\\MapsLab1.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1\\MapsLab1.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai2Lab1\\MapsLab1.cs",
+              "RelativeToolTip": "Bai2Lab1\\MapsLab1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:17:27.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai2Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai2Lab1\\Program.cs",
+              "RelativeToolTip": "Bai2Lab1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:10:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyClassPart2.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\MyClassPart2.cs",
+              "RelativeDocumentMoniker": "Bai3Lab3\\MyClassPart2.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\MyClassPart2.cs",
+              "RelativeToolTip": "Bai3Lab3\\MyClassPart2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyClassPart1.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\MyClassPart1.cs",
+              "RelativeDocumentMoniker": "Bai3Lab3\\MyClassPart1.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\MyClassPart1.cs",
+              "RelativeToolTip": "Bai3Lab3\\MyClassPart1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai3Lab3\\Program.cs",
+              "RelativeToolTip": "Bai3Lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:30:08.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai1Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\T\u0026T\\Desktop\\Lab1\\Bai1Lab1\\Program.cs",
+              "RelativeToolTip": "Bai1Lab1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:50:28.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
